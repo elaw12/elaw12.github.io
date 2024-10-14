@@ -2,5 +2,5 @@ title: Elena Lawando
 logo: assets/img/headshot_round.png
 description: As a detail oriented analyst, I have a passion for transforming complex data into actionable information. With a background in both biochemistry and data analytics, I excel in statistical analysis and data visualization. My current experience with Excel, R, Python, SQL, and Tableau allow me to uncover insights and provide data driven recommendations. I am excited to utilize my skills and work as a part of a dynamic team.
 View My [Linkedin](https://www.linkedin.com/in/elena-lawando/)
-#show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
