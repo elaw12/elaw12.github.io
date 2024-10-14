@@ -1,4 +1,5 @@
 # Data Analyst
+## View My [Linkedin](https://www.linkedin.com/in/elena-lawando/)
 #### Technical Skills : R, SQL, Tableau, Python, Excel
 
 ## Education
