@@ -4,7 +4,7 @@
 - [Tableau](https://public.tableau.com/app/profile/elena.law/vizzes)
 - [Github](https://github.com/elaw12)
   
-#### Technical Skills : R, SQL, Tableau, Python, Excel
+#### Technical Skills : R, SQL, Tableau, Python, Excel, C++
 
 ## Education
 - B.S., Biochemistry | North Park University (_May 2020_)
