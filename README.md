@@ -16,6 +16,7 @@
 This case study is an analysis on the city of Chicago's food inspections public data. Additionally, the data can be searched through using the Tableau interactive dashboard linked below.
 - [Data Analysis File](https://github.com/elaw12/Chicago-Food-Inspections/blob/main/chicago-food-inspections.ipynb)
 - [Tableau Interactive Dashboard](https://public.tableau.com/app/profile/elena.law/viz/ChicagoFoodInspectionsDashboard/Dashboard4)
+- [Search through Chicago restaurant inspections here](https://public.tableau.com/app/profile/elena.law/viz/ChicagoFoodInspectionsSearchChart/ChicagoFoodInspectionsSearch)
 
 ### Case Study: Bellabeat Data Analysis
 ![Bellabeat](assets/img/Leaf_Urban.png)
