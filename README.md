@@ -1,8 +1,8 @@
 # Data Analyst
 ## View My
-- Linkedin: https://www.linkedin.com/in/elena-lawando/
-- Tableau: https://public.tableau.com/app/profile/elena.law/vizzes
-- Github: https://github.com/elaw12
+- Linkedin: [https://www.linkedin.com/in/elena-lawando/](https://www.linkedin.com/in/elena-lawando/)
+- Tableau: [https://public.tableau.com/app/profile/elena.law/vizzes](https://public.tableau.com/app/profile/elena.law/vizzes)
+- Github: [https://github.com/elaw12](https://github.com/elaw12)
   
 #### Technical Skills : R, SQL, Tableau, Python, Excel, C++
 
