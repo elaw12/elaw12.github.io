@@ -12,8 +12,9 @@
 
 ## Projects
 ### Assyrian Family Aid Website
+![Assyrian Family Aid Website](assets/img/AFA_SS.JPG)
 As a volunteer, I designed and developed the official website for Assyrian Family Aid, a nonprofit supporting Assyrian communities. I handled the full web build, domain linking, and SEO optimization to help the organization establish a strong digital presence and reach more supporters. The site serves as a central hub for sharing their mission, accepting donations, and promoting ongoing projects.
-- Visit the Website at https://www.assyrianfamilyaid.org/
+- Visit the Website at [https://www.assyrianfamilyaid.org/](https://www.assyrianfamilyaid.org/)
   
 ### Case Study: Chicago Food Inspections Analysis 
 ![Chicago Food Inspections](assets/img/Chicago_River_ferry_b.jpg)
