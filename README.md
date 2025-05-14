@@ -15,7 +15,11 @@
 ![Assyrian Family Aid Website](assets/img/AFA_SS.JPG)
 As a volunteer, I designed and developed the official website for Assyrian Family Aid, a nonprofit supporting Assyrian communities. I handled the full web build, domain linking, and SEO optimization to help the organization establish a strong digital presence and reach more supporters. The site serves as a central hub for sharing their mission, accepting donations, and promoting ongoing projects.
 - Visit the Website at [https://www.assyrianfamilyaid.org/](https://www.assyrianfamilyaid.org/)
-  
+
+### Lawando's Food Mart Inventory
+
+Led a point-of-sale inventory setup for Lawando’s Food Mart, a Middle Eastern grocery store. Using Excel, Python, and Power Query, I compiled, cleaned, and organized product data from multiple vendors to build a clean and functional inventory database. I also analyzed market data to determine competitive pricing for over 3,000 inventory items. This project supported the store’s launch and helped streamline ongoing operations through automation and structured data management.
+
 ### Case Study: Chicago Food Inspections Analysis 
 ![Chicago Food Inspections](assets/img/Chicago_River_ferry_b.jpg)
 This case study is an analysis on the city of Chicago's food inspections public data. Additionally, the data can be searched through using the Tableau interactive dashboard linked below.
