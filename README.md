@@ -11,6 +11,10 @@
 - Google Data Analytics | coursera.org (_April 2024_)
 
 ## Projects
+### Assyrian Family Aid Website
+As a volunteer, I designed and developed the official website for Assyrian Family Aid, a nonprofit supporting Assyrian communities. I handled the full web build, domain linking, and SEO optimization to help the organization establish a strong digital presence and reach more supporters. The site serves as a central hub for sharing their mission, accepting donations, and promoting ongoing projects.
+- Visit the Website at https://www.assyrianfamilyaid.org/
+  
 ### Case Study: Chicago Food Inspections Analysis 
 ![Chicago Food Inspections](assets/img/Chicago_River_ferry_b.jpg)
 This case study is an analysis on the city of Chicago's food inspections public data. Additionally, the data can be searched through using the Tableau interactive dashboard linked below.
