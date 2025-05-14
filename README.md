@@ -17,7 +17,7 @@ As a volunteer, I designed and developed the official website for Assyrian Famil
 - Visit the Website at [https://www.assyrianfamilyaid.org/](https://www.assyrianfamilyaid.org/)
 
 ### Lawando's Food Mart Inventory
-
+![Lawando's Food Mart](assets/img/lawnados_food_mart.jpg)
 Led a point-of-sale inventory setup for Lawando’s Food Mart, a Middle Eastern grocery store. Using Excel, Python, and Power Query, I compiled, cleaned, and organized product data from multiple vendors to build a clean and functional inventory database. I also analyzed market data to determine competitive pricing for over 3,000 inventory items. This project supported the store’s launch and helped streamline ongoing operations through automation and structured data management.
 
 ### Case Study: Chicago Food Inspections Analysis 
