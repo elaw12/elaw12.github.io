@@ -14,6 +14,7 @@
 ### Assyrian Family Aid Website
 ![Assyrian Family Aid Website](assets/img/AFA_SS.JPG)
 As a digital analyst for Assyrian Family Aid, a nonprofit supporting Assyrian communities, I manage the nonprofit’s website, social media, and donation platforms. I track performance through Looker Studio dashboards and Google Analytics to uncover actionable insights. I also optimize campaigns with Google Ad Grants, increasing reach and donor engagement. My work ensures every digital effort contributes to visibility, growth, and meaningful community impact.
+
 Additionaly, I designed and developed the official website for the nonprofit. I handled the full build, domain linking, and SEO optimization to help the organization establish a strong digital presence and reach more supporters. The site serves as a central hub for sharing their mission, accepting donations, and promoting ongoing projects.
 - Visit the Website at [https://www.assyrianfamilyaid.org/](https://www.assyrianfamilyaid.org/)
 
