@@ -12,7 +12,7 @@
 
 ## Projects
 ### Case Study: Sales Performance & Operational Efficiency Analysis
-![Sales & Operations](assets/img/Sales_analysis.JPG)
+![Sales & Operations](assets/img/Sales_analysis_pic.JPG)
 This project analyzed store level performance data for a retail healthcare company to identify opportunities for improving sales and operational efficiency. Using Excel pivot tables and structured datasets, I evaluated regional KPIs such as revenue, staffing levels, and customer satisfaction. The findings were compiled into a detailed stakeholder report highlighting key trends, correlations, and actionable recommendations to enhance profitability and streamline operations. View the pdf file on my github by visiting the link below.
 - [Data Analysis File](https://github.com/elaw12/Retail_Sales_Operational_Analysis/blob/main/Sales_Operational_Analysis.pdf)
 
