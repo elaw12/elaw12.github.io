@@ -11,6 +11,10 @@
 - Google Data Analytics | coursera.org (_April 2024_)
 
 ## Projects
+### Case Study: Sales Performance & Operational Efficiency Analysis
+![Sales & Operations](assets/img/Sales_analysis.JPG)
+This project analyzed store level performance data for a retail healthcare company to identify opportunities for improving sales and operational efficiency. Using Excel pivot tables and structured datasets, I evaluated regional KPIs such as revenue, staffing levels, and customer satisfaction. The findings were compiled into a detailed stakeholder report highlighting key trends, correlations, and actionable recommendations to enhance profitability and streamline operations.
+
 ### Assyrian Family Aid Website
 ![Assyrian Family Aid Website](assets/img/AFA_SS.JPG)
 As a digital analyst for Assyrian Family Aid, a nonprofit supporting Assyrian communities, I manage the nonprofit’s website, social media, and donation platforms. I track performance through Looker Studio dashboards and Google Analytics to uncover actionable insights. I also optimize campaigns with Google Ad Grants, increasing reach and donor engagement. My work ensures every digital effort contributes to visibility, growth, and meaningful community impact.
